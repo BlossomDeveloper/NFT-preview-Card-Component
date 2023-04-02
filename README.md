@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Profile](https://github.com/BlossomDeveloper/NFT-preview-Card-Component.git)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://blossomdeveloper.github.io/NFT-preview-Card-Component/)
 
 ## My process
 
